@@ -1,0 +1,211 @@
+@import "../../../styles/variables";
+@import "../../../styles/mixins";
+.detailContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-block: 30px;
+  @include breakpoint(md) {
+    margin-block: 0;
+    margin-bottom: 30px;
+  }
+  .imageBox {
+    width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+  .card {
+    margin-top: -50px;
+    background-color: white;
+    width: 80%;
+    box-shadow: 0px 4px 38px 0px rgba(0, 0, 0, 0.16);
+    padding: 20px;
+
+    .detailCard {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      margin: 0 auto;
+      .cardContent {
+        h3 {
+          color: $color-secondary;
+
+          span {
+            font-size: 32px;
+            font-weight: 400;
+            line-height: 40px;
+            letter-spacing: 0em;
+            text-align: left;
+            @include breakpoint(xs) {
+              font-size: 18px;
+              font-weight: 400;
+              line-height: 22px;
+            }
+          }
+          margin-bottom: 5px;
+          font-size: 32px;
+          font-weight: 700;
+          line-height: 40px;
+          letter-spacing: 0em;
+          text-align: left;
+
+          @include breakpoint(xs) {
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 22px;
+          }
+        }
+        p {
+          color: $color-secondary;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 32px;
+          letter-spacing: 0em;
+          text-align: left;
+          @include breakpoint(xs) {
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 20px;
+          }
+        }
+        img {
+          width: 100%;
+          margin-top: 15px;
+        }
+        margin-bottom: 15px;
+      }
+    }
+  }
+}
+.otherNews {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  // padding: 50px 0px;
+
+  @include breakpoint(xs) {
+    display: block;
+    padding: 0;
+  }
+  // .title {
+  //   color: white;
+  //   margin-bottom: 10px;
+  //   font-size: 36px;
+  //   font-weight: 500;
+  //   line-height: 45px;
+  //   letter-spacing: 0em;
+  //   text-align: left;
+  // }
+  // img {
+  //   margin-bottom: 15px;
+  //   width: 100%;
+  // }
+  // a {
+  //   text-decoration: none;
+  //   width: 100%;
+  // }
+  .itemName {
+    position: relative;
+
+    a {
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      position: relative;
+      height: 100%;
+      width: 100%;
+      box-shadow: 0px 4px 38px 0px rgba(0, 0, 0, 0.16);
+      border-radius: 20px;
+      img {
+        position: relative;
+        width: 100%;
+        border-radius: 20px !important;
+      }
+      h3 {
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        display: flex;
+        align-items: center;
+        padding: 0px 0px 0px 80px;
+        @media screen and (min-width: 1550px) {
+          width: 70%;
+        }
+        @include breakpoint(lg) {
+          width: 70%;
+          padding: 0px 0px 0px 50px;
+        }
+        @include breakpoint(xs) {
+          align-items: flex-end;
+          width: 100%;
+          padding: 20px;
+          display: flex;
+          justify-content: center;
+          text-align: center;
+        }
+
+        font-size: 42px;
+        font-weight: 500;
+        line-height: 53px;
+        color: white;
+        @include breakpoint(lg) {
+          font-size: 28px;
+          font-weight: 500;
+          line-height: 36px;
+        }
+        @include breakpoint(xs) {
+          font-size: 20px;
+          font-weight: 500;
+          line-height: 26px;
+        }
+      }
+    }
+  }
+}
+.customContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.swiperNews {
+  // flex-direction: column;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  .swiperContainer {
+    width: 100%;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    // color: white;
+    margin-bottom: 20px;
+  }
+}
+.customTop {
+  padding: 0;
+}
+.swipper > div {
+  transition-timing-function: linear !important;
+
+  & > div {
+    cursor: initial;
+    // display: flex;
+    // align-items: center;
+  }
+}
+.swipper {
+  // margin-block: 20px;
+  margin-top: -15px;
+  @include breakpoint(xs) {
+    margin-block: 0px;
+    padding-inline: 24px;
+    margin-top: -25px;
+  }
+}

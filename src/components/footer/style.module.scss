@@ -1,0 +1,118 @@
+@import "../../styles/variables";
+@import "../../styles/mixins";
+.footer {
+  background-color: $color-primary;
+  padding-block: 20px;
+  // margin-top: 30px;
+
+  .left {
+    width: 50%;
+    .logo {
+      @include breakpoint(xs) {
+        width: 80px;
+        height: 20px;
+      }
+    }
+    .list {
+      align-items: initial;
+      .image {
+        margin-top: 5px;
+        @include breakpoint(xs) {
+          margin-top: 7px;
+        }
+      }
+    }
+    ul {
+      list-style-type: none;
+      display: flex;
+      flex-direction: column;
+      li {
+        display: flex;
+        align-items: center;
+        margin-block: 5px;
+
+        a {
+          text-decoration: none;
+          color: white;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 34px;
+          letter-spacing: 0em;
+          text-align: left;
+          @include breakpoint(xs) {
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 19px;
+            letter-spacing: 0em;
+            text-align: left;
+          }
+        }
+        .map {
+          font-size: 18px;
+          font-weight: 400;
+          letter-spacing: 0em;
+          text-align: left;
+          color: white;
+          @include breakpoint(xs) {
+            font-size: 10px;
+            font-weight: 400;
+            line-height: 13px;
+            letter-spacing: 0em;
+            text-align: left;
+          }
+        }
+        // .image:nth-child(1) {
+        //   img {
+        //     margin-top: 2px;
+        //   }
+        // }
+        .image {
+          background-color: white;
+          border-radius: 100%;
+          width: 30px;
+          height: 30px;
+          padding: 8px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 5px;
+          @include breakpoint(xs) {
+            display: none;
+          }
+          @include breakpoint(xs) {
+            background-color: transparent;
+            border-radius: 0;
+            width: 0;
+            height: 0;
+            padding: 0;
+          }
+          img {
+            width: 14px;
+            height: 14px;
+            @include breakpoint(xs) {
+              width: 10px;
+              height: 10px;
+              margin-right: 5px;
+            }
+          }
+        }
+      }
+    }
+  }
+  .right {
+    display: flex;
+    align-items: center;
+    img {
+      margin-inline: 5px;
+      @include breakpoint(xs) {
+        width: 19px;
+        height: 19px;
+      }
+    }
+  }
+}
+.customContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,269 @@
+{
+  "topBanner": {
+    "title": "Yük Verenler İçin Kamyoon"
+  },
+  "heroData": {
+    "title": "Kamyoon: Türkiye’nin Lider <br/>Dijital Yük Platformu",
+    "text": "Kamyoon, Türkiye'nin en büyük araç parkına sahip (L1) lojistik işletmeciliği firmasıdır. Resmi işletmecisi olduğu 13000'den fazla özmal/sözleşmeli kamyoncu ile güvenilir bir taşımacılık ağı oluşturarak, işletmelerin lojistik ihtiyaçlarını karşılar.",
+    "image": "assets/home-computer.png",
+    "list": "<ul><li>Dijital Dönüşüm: Geleneksel lojistik süreçlerini %100 dijitale taşıyarak iş yapış şekillerinizi güvenli ve verimli hale getirir.</li><li>Rakipsiz FTL Nakliye Maliyet Analizi: Türkiye'de ilk ve tek! Online Nakliye Maliyet Analizi ile 81 ilden 81 ile nakliye fiyatlarını hemen öğrenin. Navlun bedellerini piyasa fiyatlarına göre kıyaslayarak maliyetlerinizi optimize edin.</li></ul>",
+    "text2": "Kamyoon ile intermodal taşımacılıkla yüklerinizi daha hızlı, ekonomik ve çevre dostu bir şekilde taşıtabilirsiniz. Lojistik operasyonlarınızı geliştirin, maliyetlerinizi azaltın ve sürdürülebilir bir yaklaşım benimseyin. Hemen deneyin!"
+  },
+
+  "iconCard": [
+    {
+      "id": 0,
+      "title": "Canlı Konum <br/> Takibi",
+      "icon": "assets/carriers/road.svg"
+    },
+    {
+      "id": 1,
+      "title": "Maliyet <br/> Hesabı",
+      "icon": "assets/carriers/wallet.svg"
+    },
+    {
+      "id": 2,
+      "title": "e-Arşiv <br/> Fatura",
+      "icon": "assets/carriers/file.svg"
+    },
+    {
+      "id": 3,
+      "title": "UEDTS",
+      "icon": "assets/carriers/comp.svg"
+    },
+    {
+      "id": 4,
+      "title": "Sektördeki <br/> İndirimler!",
+      "icon": "assets/carriers/oran.svg"
+    },
+    {
+      "id": 5,
+      "title": "Hukuk <br/> Danışmanlığı",
+      "icon": "assets/carriers/law.svg"
+    },
+    {
+      "id": 6,
+      "title": "Sürücü <br/> Temini",
+      "icon": "assets/carriers/driver.svg"
+    },
+    {
+      "id": 7,
+      "title": "81 İlden <br/> Yük Bul!",
+      "icon": "assets/carriers/lift.svg"
+    }
+  ],
+  "LongText": [
+    {
+      "id": 0,
+      "title": "Türkiye’nin Her Yerinden Araç Bulma Garantisi",
+      "desc": "Kamyoon, Türkiye'nin lider dijital taşımacılık platformu olarak, dijital platformları ile birlikte geniş ofis ağı ve güçlü kamyon networkü ile yüklerinizi hızlı ve güvenilir bir şekilde taşımanıza olanak tanır.<br/>Geleneksel ve dijital lojistiği bir araya getirerek en uygun teklifleri toplar ve piyasa şartlarında araç temin ederiz. Kamyoon ile yük taşımanın avantajlarından faydalanın, işinizi daha verimli hale getirin ve Türkiye'nin dört bir yanından araç bulma garantisi ile yola çıkın!",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Kamyoon Ofisleriyle Geniş Hizmet Ağı",
+          "desc": "Kamyoon'un 12 farklı şehirdeki ofisleri, yüklerinizi hızlı ve güvenilir bir şekilde taşımanızı sağlar. Toplamda 8 büyük kamyon  garajı ofisleriyle stratejik bir konumlandırmayla Kamyon, size etkili ve kapsamlı bir dijital lojistik hizmet sunar."
+        },
+        {
+          "id": 2,
+          "title": "Geleneksel ve Dijital Lojistiği Harmanlayan İlk ve Tek Platform",
+          "desc": "Kamyoon, yüklerinizi taşırken geleneksel ve dijital lojistiği bir araya getirir. Platformumuzda, şirketimizde sözleşmeli çalışan binlerce kamyon arasından en uygun teklifleri toplar ve piyasa şartlarında araç temin eder. Aynı zamanda, ofislerimiz, yirmi yıllık taşımacı networkümüz, WhatsApp ve Telegram grupları gibi birçok kanal aracılığıyla yüklerinize araç temini sağlarız. Böylece, yüklerinizi taşırken en etkili ve hızlı yolu seçmenize yardımcı oluruz."
+        },
+        {
+          "id": 3,
+          "title": "Benzer Platformlardan Farkımız",
+          "desc": "Kamyoon, dijital ve geleneksel lojistiği birleştirerek size eşsiz bir lojistik deneyimi sunar. Gelişmiş hizmet ağı ve sürdürülebilirlik ilkesiyle Türkiye'nin dört bir yanından yüklerinizi taşımanın keyfini çıkarın!"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Online Nakliye Maliyet Analizi",
+      "desc": "Kamyoon, FTL (Komple Yük) nakliye maliyet analizi konusunda Türkiye’de ilk ve tek rakipsiz bir hizmet sunar. Online Nakliye Maliyet Analizi ile 81 ilsen 81 ile nakliye fiyatlarını hemen öğrenebilirsiniz. İşte size Kamyoon'un sunduğu bazı benzersiz avantajlar:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Yapay Zeka Destekli Piyasa Analizi",
+          "desc": "Kamyoon, yapay zeka tarafından desteklenen güçlü analitik araçlarla donatılmıştır. Bu sayede, nakliye maliyetlerinizi anlık olarak canlı piyasa fiyatlarından elde eder ve size en rekabetçi fiyatları listeler."
+        },
+        {
+          "id": 2,
+          "title": "Gerçek Zamanlı Fiyatlandırma",
+          "desc": "Kamyoon, nakliye maliyetlerinizi belirlerken tek bir faktörle sınırlı kalmaz. Özel gereksinimlerinizi dikkate alır ve size en uygun fiyat teklifini sunar."
+        },
+        {
+          "id": 3,
+          "title": "Tedarikçi Değerlendirmesi",
+          "desc": "Kamyoon, tedarik edilen araçların navlunlarının piyasaya uygunluğunu kapsamlı bir şekilde raporlar. Bu sayede fiyatlarınızı piyasa fiyatlarına göre kıyaslar ve size eşsiz raporlar sunar. Bu, taşımacılık süreçlerinizin iyileştirilmesine ve maliyetlerin kontrol altında tutulmasına yardımcı olur."
+        },
+        {
+          "id": 4,
+          "title": "Zaman ve Maliyet Tasarrufu",
+          "desc": "Kamyoon ile tüm bu hizmetlere tek bir platformdan erişebilirsiniz, bu da size zaman ve maliyet tasarrufu sağlar."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Canlı Konum Takibi",
+      "desc": "Kamyoon, yüklerinizin gerçek zamanlı konumunu takip etmenizi sağlayan benzersiz bir canlı konum takibi hizmeti sunar. Bu hizmet ile:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Yüklerinizin Anlık Takibi",
+          "desc": "Kamyoon sayesinde, gönderilerinizin anlık konumunu takip edebilirsiniz. Hangi aşamada olduklarını, tahmini varış sürelerini ve olası aksaklıkları kolayca gözlemleyebilirsiniz."
+        },
+        {
+          "id": 2,
+          "title": "Farkı Hissedin",
+          "desc": "KAMYON, yüklerinizin her aşamasını dijital olarak kaydederek irsaliye bilgileri, yükleme ve teslim noktaları, yükleme ve boşaltma zamanları gibi tüm taşıma detaylarını güvenli bir SSL bağlantısı ile canlı olarak paylaşmanızı sağlar. Bu sayede, müşterileriniz de yüklerinin durumunu anlık olarak izleyebilirler. Bu, özellik müşterilerinizi özel hissettirir."
+        },
+        {
+          "id": 3,
+          "title": "Çevre Dostu Yaklaşım",
+          "desc": "Yapay zeka destekli araç eşleştirme algoritmaları sayesinde yükünüze en yakın aracı en uygun fiyatlarla tedarik eder. Boş gidiş-gelişleri minimuma indirerek yakıt tüketimini azaltır ve böylece çevreye daha duyarlı bir nakliye işletmesi olmanıza katkı sağlar. Kamyon, çevre dostu bir yaklaşım benimser."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Veri Analizi ve Raporlama",
+      "desc": "Kamyon, size nakliye verilerinizi kontrol etme ve analiz etme imkanı sunar. İşte Kamyon'un sunduğu veri analizi ve raporlama hizmetlerinin bazı avantajları:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Navlun Verimliliği Artışı",
+          "desc": "Kamyon ile yüklerinizin verilerini kolayca kontrol edebilirsiniz. Bu sayede, navlun verimliliğinizi artırabilir ve operasyonlarınızı daha iyi optimize edebilirsiniz."
+        },
+        {
+          "id": 2,
+          "title": "Sürekli İyileştirme",
+          "desc": "Kamyon'un sağladığı rapor ve veri analizi hizmeti, işlerinizi sürekli olarak iyileştirmeniz için gerekli bilgilere erişmenize yardımcı olur. Bu da size rekabet avantajı sağlar."
+        },
+        {
+          "id": 3,
+          "title": "Performansınızı Ölçün",
+          "desc": "Kamyoon tamamlanan ve devam eden tüm siparişlerin dijital arşivini tutarak veri analizini geliştirir ve yüklerin tüm yolculuğunu uçtan uca kayıt altına alırak raporlar. Ayrıca, tedarikçilerinizi kaydetme, yönetme ve performanslarını raporlama olanağı sunar. Taleplere cevap veremeyen tedarikçilerin nedenlerini detaylı bir şekilde raporlar, böylece lojistik süreçlerinizi daha verimli hale getirir."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "% 100 Güvenli Taşıma",
+      "desc": "Kamyoon Lojistik İşletmeciliği (L1) yetki belgesinde kayıtlı resmi işletmecisi olduğu 13,000'den fazla özmal/sözleşmeli kamyoncu ile oluşturduğu güvenilir taşımacılık ağı sayesinde Türkiye’nin en büyük araç parkına sahip lojistik işletmeciliği firmasıdır. Kamyoon'un güvenli taşıma hizmetinin bazı özellikleri şunlardır:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "%100 Güvenle Taşıma",
+          "desc": "Kamyoon şirketinde çalışan 13.000'den fazla özmal/sözleşmeli kamyoncu ile oluşturduğu güvenilir taşımacılık ağı sayesinde yüklerinizi güvende taşır. Güvenilirliği sürekli olarak sağlar."
+        },
+        {
+          "id": 2,
+          "title": "Dijital Evraklar",
+          "desc": "Kamyoon, sürücü belgelerini ve resmi evrakları düzenli olarak kontrol eder. Bu sayede, güvenilirlik ve performansı düşük kamyonculara yer vermez."
+        },
+        {
+          "id": 3,
+          "title": "SMS Onaylı Teslimat",
+          "desc": "Yüklerinizi SMS onaylı olarak teslim ederek yük güvenliği en üst seviyede tutar. Bu sayede yanlış kişilere teslimatın önüne geçerek %100 güvenli bir taşımacılık hizmeti sunar."
+        },
+        {
+          "id": 4,
+          "title": "Sigortalı Taşımacılık",
+          "desc": "Kamyoon, kendi sigorta acenteliği AŞ'sini kurarak yüklerinizi en uygun fiyatlarla sigortalamanıza yardımcı olur."
+        },
+        {
+          "id": 5,
+          "title": "Kanuni Uyumluluk ve Bilgilendirme",
+          "desc": "Kamyoon, Karayolu Taşıma Kanunu, Türk Ticaret Kanunu ve Karayolu Taşımacılığı Yönetmeliği gibi tüm taşımacılık yasalarına uygunluğunuzu sağlar, tarafların haklarını korur ve kanuni sorumluluklarınızı yerine getirmeniz için gerekli tüm bilgilendirmeleri sürekli olarak güncel tutar."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Çevre Dostu Taşımacılık",
+      "desc": "Kamyon, çevre dostu taşımacılığa büyük önem verir ve sürdürülebilirlik ilkesini benimser. İşte Kamyon'un çevre dostu taşımacılığa katkıları:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Karbon Ayak İzi Azaltma",
+          "desc": "Kamyon, karbon ayak izinizi azaltmanıza yardımcı olur. Boş gidiş-gelişleri minimuma indirerek yakıt tüketimini azaltır ve böylece çevreye olumlu bir katkı sağlar."
+        },
+        {
+          "id": 2,
+          "title": "Yeşil Lojistik Anlayışı",
+          "desc": "Kamyon, çevre politikalarına ve yeşil lojistik anlayışına büyük önem verir. Sürdürülebilirlik ve verimlilik konularına gösterdiği hassasiyetle öne çıkar."
+        },
+        {
+          "id": 3,
+          "title": "İntermodal Taşımacılık",
+          "desc": "Kamyoon, sahibi olduğu yetki belgeleri ve yirmi yıllık sektör tecrübesi ile Türkiye’nin her yerinden intermodal (Tren ve Karayolu kullanılarak yapılan) taşımacılık yaparak karbon emisyonunu minimuma düşürerek çevreyi korumaya katkıda bulunur."
+        },
+        {
+          "id": 4,
+          "title": "Karbon Salınımı Hesaplaması",
+          "desc": "Kamyoon, sahibi olduğu teknolojilerle yükünüzün taşınması için oluşan karbon salınımını hesaplar ve raporlar. Sizlere doğayı koruyacak önerilerde bulunur."
+        },
+        {
+          "id": 5,
+          "title": "Rota Planlaması",
+          "desc": "Rota ve yük planlaması yaparak gereksiz karbon salınımını engelleyebilirsiniz."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Dijital Lojistik Yönetimi",
+      "desc": "Kamyoon ile tüm nakliye operasyonlarınızı dijital ortamda yönetin! Kamyoon, yükverenlere özel olarak tasarlanmış gelişmiş bir kullanıcı paneli sunar. Bu panel sayesinde:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Dijital Lojistik Platformu",
+          "desc": "Kamyon'un gelişmiş kullanıcı paneli, tüm lojistik işlemlerinizi tek bir platform üzerinden yönetmenize olanak tanır. Bu, işlerinizi daha verimli hale getirmenize yardımcı olur."
+        },
+        {
+          "id": 2,
+          "title": "Kolay Kullanım",
+          "desc": "Kamyon, kullanıcı dostu arayüzü ile taşımacılık işlerinizi daha kolay ve verimli hale getirir. Lojistik yönetimini daha anlaşılır ve kullanıcı dostu hale getirir."
+        },
+        {
+          "id": 3,
+          "title": "Kolay Ulaşım",
+          "desc": "Bütün nakliye operasyonlarınızı ister bilgisayarınızdan ister cep telefonunuzdan gerçek zamanlı olarak yönetebilirsiniz."
+        },
+        {
+          "id": 4,
+          "title": "Canlı Durum Bilgisi",
+          "desc": "Gönderinizin durum güncellemeleri için otomatik bildirimler alırsınız."
+        },
+        {
+          "id": 5,
+          "title": "Dijital Dönüşüm",
+          "desc": "Kamyon, tüm taşımacılık işlemlerinizi tek bir çatı altında toplar, size hız, kolaylık ve etkili bir dijital lojistik deneyimi sunar. Bu sayede hem verimliliğinizi artırır hem de işinizin dijital dönüşümünde öncü olursunuz."
+        }
+      ]
+    }
+  ],
+
+  "heroDataBottom": [
+    {
+      "id": 0,
+      "title": "Kullanıcı Dostu Arayüz",
+      "desc": "Kamyon, yükverenlere özel olarak tasarlanmış gelişmiş bir kullanıcı paneli sunar. Tüm nakliye operasyonlarınızı tek bir platform üzerinden yönetmenizi sağlar."
+    },
+    {
+      "id": 1,
+      "title": "Müşteri Hizmetleri ",
+      "desc": "Kamyon, 7/24 canlı destek ile müşterilerinizi her zaman sunabilir, özel müşteri yöneticisi atanmasını sağlar ve otomatik bildirimlerle önemli bilgileri paylaşır."
+    },
+    {
+      "id": 2,
+      "title": "API Entegrasyonu",
+      "desc": "Kamyon, mevcut BT sistemlerinizle sorunsuz bir şekilde çalışır, kolayca değiştirilmenize olanak tanır ve lojistik operasyonların aralığını genişletir."
+    },
+    {
+      "id": 3,
+      "title": "Ücretsiz Hizmet",
+      "desc": "Kamyon, %100 ücretsiz olarak sunulur. Sadece ihtiyacınız olduğu zaman kullanın ve işletme giderlerinizi minimumda tutun."
+    }
+  ]
+}

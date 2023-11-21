@@ -1,0 +1,60 @@
+{
+  "topBanner": {
+    "title": "Komisyoncular İçin Kamyoon"
+  },
+  "heroData": {
+    "title": "<span>Kamyoon’da</span> <br/> İşlerinizi Yayınlayın",
+    "desc": "İş tahtanızı Kamyoon üzerinden yayınlayabilirsiniz.",
+    "text": "Kamyoon <a href='/yuk-islemleri'>Yük İşlemleri</a>  panelinden <a href='/yuk-ekle'>Yeni Yük Ekle</a>yebilir , yüklerinizi listeleyebilir, gelen sürücü tekliflerini görebilir, onaylayabilir ve tamamlanana kadar seferi takip edebilirsiniz. Ayrıca seferi, göndereceğiniz paylaşım linki ile yükverene de izletebilirsiniz. Böylece verdiğiniz hizmetin kalitesi artarken iş yükünüz azalmış olur.",
+    "image": "assets/home-computer.png"
+  },
+
+  "iconCard": [
+    {
+      "id": 0,
+      "title": "Canlı Konum <br/> Takibi",
+      "icon": "assets/carriers/road.svg"
+    },
+    {
+      "id": 1,
+      "title": "Maliyet <br/> Hesabı",
+      "icon": "assets/carriers/wallet.svg"
+    },
+    {
+      "id": 2,
+      "title": "e-Arşiv <br/> Fatura",
+      "icon": "assets/carriers/file.svg"
+    },
+    {
+      "id": 3,
+      "title": "UEDTS",
+      "icon": "assets/carriers/comp.svg"
+    },
+    {
+      "id": 4,
+      "title": "Sektördeki <br/> İndirimler!",
+      "icon": "assets/carriers/oran.svg"
+    },
+    {
+      "id": 5,
+      "title": "Hukuk <br/> Danışmanlığı",
+      "icon": "assets/carriers/law.svg"
+    },
+    {
+      "id": 6,
+      "title": "Sürücü <br/> Temini",
+      "icon": "assets/carriers/driver.svg"
+    },
+    {
+      "id": 7,
+      "title": "81 İlden <br/> Yük Bul!",
+      "icon": "assets/carriers/lift.svg"
+    }
+  ],
+
+  "heroDataBottom": {
+    "title": "<span>Kamyoon'da</span> <br/> Komisyoncu İçin Neler Var?",
+    "desc": "Gelişmiş panel yapısı sayesinde tüm sevkiyat işlemlerini Muavin üzerinden yönetebilirsiniz.",
+    "text": "<ul><li>Kendi marka ve logolarıyla oluşturulan bir dijital lojistik platformuna sahip olurlar.</li><li>Daha verimli bir operasyon sağlar.</li><li>Yüklerini daha hızlı ve kolay bir şekilde yönetir.</li><li>Yüklerine on binlerce kamyoncudan piyasa şartlarına göre canlı nakliye teklifi alarak araç tedarik edebilirler.</li><li>İş listelerindeki yükleri sadece kendi araçları ile paylaşabilecekleri gibi isterlerse herkese açık olarak da yayınlayabilirler.</li><li>Komisyoncular, yayınladıkları yüklere gelen teklifleri değerlendirip teklife onay veya ret verebilir.</li><li>Gönderdikleri yüklerin rapor ve veri analizlerine ulaşabilirler.</li><li>Tamamlanan seferlerin teslim evraklarını canlı olarak görebilirler.</li><li>Yük tesliminde sms onayı ile teslim edilen kişinin onayını alabilirler.</li><li>Sevkiyatın tüm aşamalarını ve şoför konumunu takip edebililirler.</li><li>Vadeli alacakları nakliye ödemelerini kamyoncuya platformun hesabından anında ödeyebilirler.</li><li>İhtiyaç halinde demiryolu taşımacılığı için platformdan hizmet alabilirler.</li><li>Yük veren firmaları ve yük taşıyan kamyoncuları arasındaki bütün taşımacılık işini tek bir platform üzerinden başka hiçbir iletişim kanalına gerek kalmadan yürütebilirler. Bu sayede %100 dijital lojistik firması ünvanına hak kazanabilirler.</li></ul>"
+  }
+}

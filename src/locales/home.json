@@ -1,0 +1,245 @@
+{
+  "heroData": {
+    "background": "assets/home-banner.png",
+    "bannerData": [
+      {
+        "id": 0,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "Güvenli ve Sigortalı Taşıma Hizmeti",
+        "desc": "Sistemimize kayıtlı 5 bin güvenilir sürücünün yanında yeni kayıt olacak sürücülerimiz yoğun bi inceleme ve güvenlik sürecinden geçmektedir. Bu güvenlik sürecine ilave olarak yük sigortası ile tüm olumsuzlukların önüne geçiyoruz.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 1,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "81 İlden Anında Araç Bulma",
+        "desc": "Yük veren tarafından teklifi kabul edilen sürücünün; yükü kabul ettiği andan yükü teslim anına kadar “ Yüke ulaşım, yük yükleme, yolda geçirdiği süre, güzergah sapmaları, ara duraklı taşımalarda yapılan ara yük yükleme ve indirmeler ve yükün teslimine kadar.” Yük sürücünün sorumluluğunda olduğu sürecin tamamında araç ve sürücü izlenebilir.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 2,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "Canlı Araç ve Yük Takibi",
+        "desc": "Yük veren tarafından teklifi kabul edilen sürücünün; yükü kabul ettiği andan yükü teslim anına kadar “ Yüke ulaşım, yük yükleme, yolda geçirdiği süre, güzergah sapmaları, ara duraklı taşımalarda yapılan ara yük yükleme ve indirmeler ve yükün teslimine kadar.” Yük sürücünün sorumluluğunda olduğu sürecin tamamında araç ve sürücü izlenebilir.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 3,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "Veri Analizi ve Raporlama",
+        "desc": "Uygulamamızda yapılan tüm taşıma işlemlerinin; kayıt altında tutulduğu, ayrıca taşıma işine ait tüm maliyet kalemlerinin ayrı ayrı veri haline getirilir. Yük verenin yük ve yüke ait tüm giderlerini istediği periyotta raporlanmasına olanak sağlanır.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 4,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "Vadeli Kontratlı Taşıma Hizmeti",
+        "desc": "Kamyoon Lojistik sayesinde yetki belgesine kayıtlı tek bir merkezden yönetilen finansal süreçler yük verene vadeli iş yapma gücü sunarken, sahip olduğu filo ile kontratlı iş olanağı sağlar.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 5,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "Daha Az Karbon Salınımı",
+        "desc": "İklim değişikliği ve karbon ayak izinin azaltılması, gelecek nesillere daha verimli bir dünya bırakılması yolunda lojistik sektörüne büyük bir sorumluluk düştüğünün farkındayız. İntermodal taşımacılık ve boş araç süreçlerinin minimuma indirilmesi çabası uygulamamızın ana temellerini oluşturur.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 6,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "7/24 Canlı Destek",
+        "desc": "Canlı destek birimimiz lojistik ve teknik olarak 2 birimden oluşur. Deneyimli lojistik ekibimiz nakliye sürecine yakından destek verirken, teknik ekibimiz uygulamada yaşanacak teknik sorunlara çözüm üretir.",
+        "button": "Detaylı Bilgi"
+      },
+      {
+        "id": 7,
+        "heroTopTitle": "Kamyoon Avantajları",
+        "heroTitle": "Kredi Kartı ile Ödeme",
+        "desc": "Elektronik Ticaret Bilgi Sistemine kayıtlı ve 256 bit SSL güvenlik sistemleri sayesinde, tüm nakliye ödemeleri kredi kartı ile güvenle yapılabilir.",
+        "button": "Detaylı Bilgi"
+      }
+    ]
+  },
+
+  "dataHomeMain": {
+    "title": "Kamyoon;",
+    "firstDesc": " Kamyoon; kamyoncuları, nakliyecileri, kooperatifleri ve yük verenleri bir araya getirerek tek bir yük pazarı oluşturuyor. Bu pazar, taşımacılık sektöründeki taraflar arasında etkili iletişim ve işbirliğinin sağlanmasında da köprü görevi görüyor.",
+    "secondDesc": "Kamyoon’da yük verenlerin yayınladığı yükler kooperatifler, nakliyeciler ve kamyoncular tarafından görülebilmektedir. Böylece tüm Türkiye’deki lojistik faaliyetlerini takip eden firmalar ve kamyoncular yük bıraktıkları lokasyondan dönüşte yeni bir yük bularak dönüş yolunda çevreci bir harekete de hizmet etmektedir.",
+    "thirdDesc": "Kamyoon referans kartları; sürücü ve yük veren puanlama sistemleri ile sevkiyatta yaşanabilecek güvenlik problemlerinin önüne geçiyor.",
+
+    "mainCards": [
+      {
+        "id": 0,
+        "title": "Hızlı Teklif Al!",
+        "tabletText": "Kamyoon Üyesi olmadan Hızlı teklif Al sistemimizdeki formu doldurarak taşıyıcılardan teklifler alabilirsiniz.",
+        "text": "Kamyoon Üyesi olmadan Hızlı teklif Al<br/> sistemimizdeki formu doldurarak taşıyıcılardan<br/> teklifler alabilirsiniz.",
+        "hrefText": "Hızlı Teklif Formunu Görüntüle",
+        "icon": "assets/icons/right-arrow-4.svg"
+      },
+      {
+        "id": 1,
+        "tabletText": "Kamyoon Üyesi olmadan Hızlı teklif Al sistemimizdeki formu doldurarak taşıyıcılardan teklifler alabilirsiniz.",
+
+        "title": "Taşıyıcılar İçin",
+        "text": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini<br/> kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini<br/> azaltır.",
+        "hrefText": "Detaylı İnceleyin ve Ücretsiz Kaydolun"
+      },
+      {
+        "id": 2,
+        "title": "Yük Verenler İçin",
+        "tabletText": "Kamyoon Üyesi olmadan Hızlı teklif Al sistemimizdeki formu doldurarak taşıyıcılardan teklifler alabilirsiniz.",
+
+        "text": "Kamyoon, yük verenlerin hızlıca güvenilir sürücüler<br/> bulmalarını ve bu sürücüleri anlık olarak<br/> takip etmelerini sağlar.",
+        "hrefText": "Detaylı İnceleyin ve Ücretsiz Kaydolun"
+      },
+      {
+        "id": 3,
+        "title": "Komisyoncular İçin",
+        "tabletText": "Kamyoon Üyesi olmadan Hızlı teklif Al sistemimizdeki formu doldurarak taşıyıcılardan teklifler alabilirsiniz.",
+
+        "text": "Kamyoon, iş tahtanızı geniş bir kamyoncu kitlesine göstererek iş sirkülasyonunuzu arttırır. Kompakt yapısı ile işlerinizi tek yerden yönetmenizi sağlar.",
+        "hrefText": "Detaylı İnceleyin ve Ücretsiz Kaydolun"
+      },
+      {
+        "id": 4,
+        "title": "Kooperatifler İçin",
+        "tabletText": "Kamyoon Üyesi olmadan Hızlı teklif Al sistemimizdeki formu doldurarak taşıyıcılardan teklifler alabilirsiniz.",
+
+        "text": "Kamyoon kompakt yapısı ile tüm Kooperatif sistemlerine enterge edilebilir. Böylece iş yönetiminiz kolaylaştığı gibi iş yükünüz de azalır.",
+        "hrefText": "Detaylı İnceleyin ve Ücretsiz Kaydolun"
+      },
+      {
+        "id": 5,
+        "title": "Evden Eve Nakliyeciler",
+        "tabletText": "Kamyoon Üyesi olmadan Hızlı teklif Al sistemimizdeki formu doldurarak taşıyıcılardan teklifler alabilirsiniz.",
+
+        "text": "Kamyoon, ev sahipleri ile evden eve nakliye hizmeti sunan firmaları bir araya getirerek, en uygun tekliflerle taşıma işlemlerini kolaylaştırıyor.",
+        "hrefText": "Detaylı İnceleyin ve Ücretsiz Kaydolun"
+      }
+    ]
+  },
+
+  "dataAvailable": {
+    "title": "Kamyoon’da Sizin İçin Neler Var?",
+    "mobileTitle": "Kamyoon’da<br/> Sizin İçin Neler Var?",
+    "image": "assets/home-computer.png",
+    "dataHomeSlider": [
+      {
+        "id": 1,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      },
+
+      {
+        "id": 2,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      },
+      {
+        "id": 3,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      },
+      {
+        "id": 4,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      },
+      {
+        "id": 5,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      },
+      {
+        "id": 6,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      },
+      {
+        "id": 7,
+        "bigTitle": "Sefer Maliyeti Hesaplama<br/> Ekranı Nasıl Kullanılır?",
+        "title": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "mobileTitle": "Sefer Maliyeti Hesaplama Ekranı<br/> Nasıl Kullanılır?",
+        "buttonText": "Detaylar İçin Tıklayınız",
+        "buttonLink": "",
+        "icon": "assets/icons/right-arrow-2.svg"
+      }
+    ]
+  },
+
+  "campainSlider": {
+    "title": "Sektörden Haberler",
+
+    "dataSlider": [
+      {
+        "id": 1,
+        "image": "assets/landing-slider-banner.png",
+        "mobileImage": "assets/landing-mobile-slider.png",
+        "mobileTitle": "Lojistik Geleceğe <br/>Taşıdığımız Sorumluluk",
+        "title": "Lojistik: <br/>Geleceğe Taşıdığımız <br/>Sorumluluk",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "hrefText": "Yazının Devamı İçin"
+      },
+      {
+        "id": 2,
+        "image": "assets/landing-slider-banner.png",
+        "mobileImage": "assets/landing-mobile-slider.png",
+        "mobileTitle": "Lojistik Geleceğe <br/>Taşıdığımız Sorumluluk",
+        "title": "Lojistik: <br/>Geleceğe Taşıdığımız <br/>Sorumluluk",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "hrefText": "Yazının Devamı İçin"
+      },
+      {
+        "id": 3,
+        "image": "assets/landing-slider-banner.png",
+        "mobileImage": "assets/landing-mobile-slider.png",
+        "mobileTitle": "Lojistik Geleceğe <br/>Taşıdığımız Sorumluluk",
+        "title": "Lojistik: <br/>Geleceğe Taşıdığımız <br/>Sorumluluk",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "hrefText": "Yazının Devamı İçin"
+      },
+      {
+        "id": 4,
+        "image": "assets/landing-slider-banner.png",
+        "mobileImage": "assets/landing-mobile-slider.png",
+        "mobileTitle": "Lojistik Geleceğe <br/>Taşıdığımız Sorumluluk",
+        "title": "Lojistik: <br/>Geleceğe Taşıdığımız <br/>Sorumluluk",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "hrefText": "Yazının Devamı İçin"
+      },
+      {
+        "id": 5,
+        "image": "assets/landing-slider-banner.png",
+        "mobileImage": "assets/landing-mobile-slider.png",
+        "mobileTitle": "Lojistik Geleceğe <br/>Taşıdığımız Sorumluluk",
+        "title": "Lojistik: <br/>Geleceğe Taşıdığımız <br/>Sorumluluk",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "hrefText": "Yazının Devamı İçin"
+      }
+    ]
+  }
+}

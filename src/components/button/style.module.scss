@@ -1,0 +1,44 @@
+@import "../../styles/variables";
+@import "../../styles/mixins";
+
+.button {
+  background-color: $color-primary;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  color: #fff;
+  text-align: left;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px 18px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @include breakpoint(xs) {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  img {
+    margin-left: 5px;
+  }
+}
+.isFirst {
+  border: 2px solid white;
+}
+.swiper {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.disabled {
+  cursor: initial;
+}

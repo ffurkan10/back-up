@@ -1,0 +1,28 @@
+@import "../../styles/variables";
+.radioGroup {
+  .list {
+    display: flex;
+    align-items: center;
+    .radio {
+      margin-right: 10px;
+      label {
+        display: flex;
+        align-items: center;
+        input {
+          width: 20px;
+          height: 20px;
+          margin-right: 5px;
+          cursor: pointer;
+        }
+        span {
+          font-size: 14px;
+          font-weight: 500;
+          line-height: 16px;
+          letter-spacing: 0em;
+          text-align: left;
+          color: $color-secondary;
+        }
+      }
+    }
+  }
+}

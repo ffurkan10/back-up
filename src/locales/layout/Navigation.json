@@ -1,0 +1,28 @@
+{
+  "dataNavigation": [
+    {
+      "href": "/hakkimizda",
+      "text": "Hakkımızda"
+    },
+    {
+      "href": "/komisyon",
+      "text": "Komisyoncular"
+    },
+    {
+      "href": "/kooperatifler",
+      "text": "Kooperatifler"
+    },
+    {
+      "href": "/evden-eve-nakliyeciler",
+      "text": "Evden Eve Nakliyeciler"
+    },
+    {
+      "href": "/yuk-verenler",
+      "text": "Yük Verenler"
+    },
+    {
+      "href": "/tasiyicilar",
+      "text": "Taşıyıcılar"
+    }
+  ]
+}

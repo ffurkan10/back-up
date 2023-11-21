@@ -1,0 +1,182 @@
+{
+  "topBanner": {
+    "title": "Taşıyıcılar İçin Kamyoon"
+  },
+  "heroData": {
+    "title": "<span>Kamyoon ile</span> <br/> Yeni Nesil Kamyoncu Olun",
+    "text": "Kamyoon platformu, gerçek kamyoncular tarafından sektörün tüm ihtiyaçlarına çözüm olarak geliştirilmiştir ve kamyonculara ücretsiz hizmet vermektedir. Kamyoncuların iş süreçlerini dijitalleştirerek işlerini kolaylaştırmayı, verimliliği artırmayı ve maliyetleri düşürmeyi amaçlamaktadır.",
+    "image": "assets/home-computer.png"
+  },
+
+  "iconCard": [
+    {
+      "id": 0,
+      "title": "Canlı Konum <br/> Takibi",
+      "icon": "assets/carriers/road.svg"
+    },
+    {
+      "id": 1,
+      "title": "Maliyet <br/> Hesabı",
+      "icon": "assets/carriers/wallet.svg"
+    },
+    {
+      "id": 2,
+      "title": "e-Arşiv <br/> Fatura",
+      "icon": "assets/carriers/file.svg"
+    },
+    {
+      "id": 3,
+      "title": "UEDTS",
+      "icon": "assets/carriers/comp.svg"
+    },
+    {
+      "id": 4,
+      "title": "Sektördeki <br/> İndirimler!",
+      "icon": "assets/carriers/oran.svg"
+    },
+    {
+      "id": 5,
+      "title": "Hukuk <br/> Danışmanlığı",
+      "icon": "assets/carriers/law.svg"
+    },
+    {
+      "id": 6,
+      "title": "Sürücü <br/> Temini",
+      "icon": "assets/carriers/driver.svg"
+    },
+    {
+      "id": 7,
+      "title": "81 İlden <br/> Yük Bul!",
+      "icon": "assets/carriers/lift.svg"
+    }
+  ],
+
+  "heroDataBottom": {
+    "title": "<span>Kamyoon'da</span> <br/> Kamyoncu İçin Neler Var",
+    "desc": "Kamyoon, kamyooncular için eksiksiz bir çözüm sunar. İşinizi karlı, güvenli ve sürdürülebilir bir şekilde büyütmek için Kamyoon'u tercih edin. Geleceğin kamyoonculuğunu birlikte inşa edelim. Kamyoon, tüm bu hizmetleri ücretsiz sunar. Biz, gerçek kamyooncuların sektörün hak ettiği değeri geri kazanmasını ve daha sürdürülebilir bir lojistik sektörü oluşturmayı hedefliyoruz. Kamyoon ile geleceğin kamyoonculuğuna hazır olun. İşinizi karlı, güvenli ve sürdürülebilir bir şekilde büyütün.",
+    "text": "<ul><li>Yılın 12 ayı nakliyecilerden, lojistikçilerden, kooperatiflerden ve dijital ortamlardan en kazançlı yükleri bulur.</li><li>Dijital platformun yanı sıra çağrı merkezi müşteri temsilcilerimizi arayarakta istediğiniz ilden telefonla iş bulur.</li><li>Canlı konumunuz ve tahmini varış süreniz gibi bilgileriniz onay verdiğiniz müşterilerinizle canlı olarak paylaşır.</li><li>İsteyen müşterilerinize SMS onaylı yük teslimatı bile yapabilir.</li><li>Kamyon garajlarındaki ofisleri aracılığıyla garajlardaki iş ve araba yoğunluğu size canlı olarak raporlar.</li><li>Garajlardaki tüm nakliyecilerden yılın 12 ayı iş bulur, komisyonunuzu öder, garaja girmeden garajdan size iş alır.</li><li>Yedi büyük kamyon garajındaki kamyoon ofislerini kendi ofisin gibi kullanabilirsin. İçecekler kamyoon’un ikramıdır.</li><li>Yük verenlerinizle bütün lojistik iletişiminizi başka  iletişim aracına gerek kalmadan tek başına yönetir, izletir ve raporlar.</li><li>Teslim evraklarınızı sizin için kanuni sorumluluğu sona erene kadar uzun yıllar saklar ve istediğiniz zaman paylaşır.</li><li>Aracınızın sefer maliyetini (mazot, lastik, sürücü, tamir, bakım, vergi, otoyol, köprü gibi) %99 doğrulukla hesaplar.</li><li>GİB üzerinden E-arşiv faturanızı keser, geçmiş faturalarınızı saklar, fatura onaylarınızı onaylar veya reddeder.</li><li>Ulaştırma Bakanlığı üzerinden U-ETDS (Ulaştırma Elektronik Takip ve Denetleme Sistemi) yük bildiriminizi yapar.</li><li>Belirttiğiniz tutarın KDV’sini ve tevkifatını hesaplar.</li><li>Sera gazı emisyonunuzu yaptığınız kilometreye göre otomatik hesaplar ve size çevreyi koruma önerilerinde bulunur.</li><li>İhtiyaç duyduğunuz heran; nakliyeci, kamyon garajı, usta, lastikçi, dinlenme tesisi, ATM, eczane, hastane ne lazımsa konumunu ve telefonunu hemen bulur.</li><li>Aracınızı uzun süreli kiralar veya kiralamanıza aracılık eder.</li><li>Firmanızın, aracınızın ve sizin resmi evrak ve belgelerinizi hep yanında taşır. Paylaşmak istediğiniz zaman telefonunuzdan WhatsApp veya e-posta yoluyla anında iletir.</li><li>Geçmiş işlerinize yapılan yorum ve beğenilerinizden oluşan profilinizi kayıt eder, yük alırken referans olarak paylaşır.</li><li>Güvenilir kamyoncu sertifikası ile size referans olur. Kamyonun referansı sektörde çok değerlidir ve birçok firma tarafından öncelik nedenidir. Kamyoncu olmanın gururunu yaşatır.</li><li>Muayenenizi, sigortanızı, kaskonuzu ve vergilerinizi takip eder, günü yaklaştığında size hatırlatmalar yapar.</li><li>Size uygun indirimli sigorta, kasko, yük sigortası bulur ve en uygunu bulma konusunda çok deneyimlidir.</li><li>İndirimli akaryakıt, lastik, akü ve yedek parça bulur.</li><li>Taşıma kanunu, taşıma yönetmeliğini, Türk Ticaret Kanunu'nu ezbere bilir, taşımacılıkla ilgili yasa ve yönetmeliklerdeki değişikliklerde sizi hemen uyarır ve korur.</li><li>Taşımacılık ile yaşadığınız bütün hukuki işlemlerde ücretsiz hukuk danışmanlığı hizmeti verir.</li><li>Tahsilatını yapamadığınız ödemelerinizi almak için hukuk danışmanlığı yapar.</li><li>Sürücü arayanlar – İş arayanlar ilanları sayfasından araç sahibine sürücü ve sürücüye iş bulur.</li></ul>",
+    "image": "assets/big-phone.png"
+  },
+
+  "bannerBottom": {
+    "title": "Tüm bu fırsatlardan ücretsiz<br/> yararlanmak için sizde hemen yükleyin",
+    "mobileTitle": "Kamyoon’u İndir <br/> Türkiyenin 81 İlinden Anında Yük Bul!",
+    "apple": "assets/carriers/apple-download.png",
+    "store": "assets/carriers/store.png"
+  },
+
+  "LongText": [
+    {
+      "id": 0,
+      "title": "<span>Kamyoon:</span> <br/> Kamyoncuların Dijital Muavini",
+      "desc": "Kamyoon platformu, gerçek kamyoncular tarafından geliştirilmiştir ve kamyonculara ücretsiz hizmet vermektedir. Çünkü Kamyoonu sektörün hak ettiği değeri geri kazanmak ve daha sürdürülebilir yenilikçi bir lojistik sektörü oluşturmak için geliştiriyorlar.<br/> Kamyoncuların iş süreçlerini dijitalleştirerek işlerini kolaylaştırmayı, verimliliği artırmayı ve maliyetleri düşürmeyi amaçlamaktadır.<br/> Kamyoon, Türkiye'nin önde gelen dijital yük platformu olarak, kamyoonculara ve taşımacılık profesyonellerine özel çözümler sunmaktadır. İşte Kamyoon'un sunduğu hizmetler ve kamyooncular için sağladığı faydalar:",
+      "bottom": [
+        {
+          "id": 1,
+          "title": "Yük Bulma Kolaylığı",
+          "desc": "Kamyoon, tüm Türkiye'den yılın 12 ayı boyunca Üreticilerden, nakliyecilerden, lojistikçilerden, kooperatiflerden ve dijital ortamlardan en kazançlı yükleri sizin için bulur. Yük bulma sürecini hızlandırın ve daha fazla iş alın.<br/>Kamyon Garajlarından İş ve Araç Durumu<br/>Kamyon garajlarındaki iş ve araba yoğunluğunu size canlı olarak raporlar. Ofislerimiz sayesinde garajların yoğunluk durumunu anlık olarak takip edin."
+        },
+        {
+          "id": 2,
+          "title": "Geniş Kamyon Garajları Ağı",
+          "desc": "Türkiye’nin en büyük kamyon garajındaki ofisleri kendi ofisiniz gibi kullanabilirsiniz. İçecekler kamyoonun ikramıdır. Rahat bir çalışma ortamıyla verimliliğinizi artırın."
+        },
+        {
+          "id": 3,
+          "title": "Çağrı Merkezi Desteği",
+          "desc": "Dijital platformumuzu kullanmanın yanı sıra, çağrı merkezimizi arayarak istediğiniz ilden iş bulma fırsatını elde edebilirsiniz. İş bulma konusunda geleneksel lojistikle dijital lojistiği harmanlayarak daha fazla iş seçeneği sunuyoruz."
+        },
+        {
+          "id": 4,
+          "title": "Gerçek Zamanlı Konum Paylaşımı",
+          "desc": "Taşıdığınız yükün ve aracınızın konumunu, tahmini varış sürenizi ve diğer önemli bilgileri onay verdiğiniz müşterilerinizle canlı olarak paylaşın. Müşterilerinizle daha iyi iletişim kurun ve güven oluşturun."
+        },
+        {
+          "id": 5,
+          "title": "SMS Onaylı Teslimat",
+          "desc": "Müşterilerinizin isteği üzerine, yük teslimatını SMS onaylı olarak gerçekleştirebilirsiniz. Güvenli ve doğru teslimatlar yaparak müşteri memnuniyetinizi artırın."
+        },
+        {
+          "id": 6,
+          "title": "Lojistik İletişim Yönetimi",
+          "desc": "Kamyoon, yük verenlerinizle aranızdaki bütün lojistik iletişimini tek başınıza yönetmenize olanak tanır. İletişimi izleyin, raporlayın ve daha iyi organize olun."
+        },
+        {
+          "id": 7,
+          "title": "Uzun Süreli Belgelerin Saklanması",
+          "desc": "Teslim evraklarınızı kanuni sorumluluğunuzun sonuna kadar saklarız ve istediğiniz zaman paylaşmanıza yardımcı oluruz. Belgelerinizi güvende tutun."
+        },
+        {
+          "id": 8,
+          "title": "Sefer Maliyeti Hesaplama",
+          "desc": "Aracınızın seferde oluşturacağı mazot, lastik, sürücü, tamir bakım, vergi, otoyol, köprü gibi bütün giderlerini %99 doğrulukla hesaplar ve sizinle paylaşırız. Mali kontrole sahip olun."
+        },
+        {
+          "id": 9,
+          "title": "E-Arşiv Fatura ve Dökümantasyon",
+          "desc": "E-arşiv faturalarınızı keser, geçmiş faturalarınızı saklar, fatura onaylarınızı işleriz. Belgelerinizi düzenli tutun."
+        },
+        {
+          "id": 10,
+          "title": "U-ETDS Yük Bildirimi",
+          "desc": "U-ETDS yük bildiriminizi yapar, taşıma süreçlerinizi kolaylaştırırız."
+        },
+        {
+          "id": 11,
+          "title": "Hukuki Destek",
+          "desc": "Taşımacılıkla ilgili hukuki işlemlerde ücretsiz hukuk danışmanlığı hizmeti veririz. Hakkınızı korumak için yanınızdayız."
+        },
+        {
+          "id": 12,
+          "title": "İş İlanları ve İş Arayanlar",
+          "desc": "Sürücü arayanlar ve iş arayanlar için ilanlar sayfamızı kullanarak sağlam iş birlikleri kurun."
+        },
+        {
+          "id": 13,
+          "title": "Çevre Dostu Taşımacılık",
+          "desc": "Yük bulmak için gidilen boş kilometreleri en aza indirerek sera gazı emisyonunu düşürür. Çevreye duyarlı bir taşımacılık anlayışını benimseyin. Kamyoon, çevre dostu bir yaklaşım sunar."
+        },
+        {
+          "id": 14,
+          "title": "Sera Gazı Emisyon Hesaplamaları",
+          "desc": "Sera gazı emisyonunuzu yaptığınız kilometrelere göre otomatik olarak hesaplarız ve size çevre dostu önerilerde bulunuruz."
+        },
+        {
+          "id": 15,
+          "title": "Hızlı Lokasyon ve İletişim Bilgileri",
+          "desc": "Aradığınız her yerde her zaman; nakliyeci, kamyoon garajı, adres, usta, lastikçi, dinlenme tesisi, ATM, eczane, hastane gibi ihtiyacınız olan her şeyin konumunu ve iletişim bilgilerini hemen bulun."
+        },
+        {
+          "id": 16,
+          "title": "Uzun Süreli Kiralama ve Kiralama Aracılığı",
+          "desc": "Aracınızı uzun süreli kiralayabilir veya kiralamanıza aracılık edebiliriz. Size en uygun seçenekleri sunarak araç kiralama sürecini kolaylaştırırız."
+        },
+        {
+          "id": 17,
+          "title": "Belgeler ve Referanslar",
+          "desc": "Firmanızın, aracınızın ve sizin resmi evrak ve belgelerini her zaman yanınızda taşırız. İhtiyaç duyduğunuzda telefonunuzdan WhatsApp veya e-posta ile hemen paylaşabilirsiniz. Ayrıca, geçmiş taşımalarınızdan gelen yorum ve beğenilerden oluşan profilinizi kayıt altına alır, yük alırken referans olarak paylaşabilirsiniz."
+        },
+        {
+          "id": 18,
+          "title": "Güvenilir Kamyooncu Sertifikası",
+          "desc": "Güvenilir kamyooncu sertifikası ile size referans oluruz. Kamyoon’un referansı sektörde çok değerlidir ve birçok firma tarafından öncelik nedenidir. Kamyoon’cu olmanın gururunu yaşayın."
+        },
+        {
+          "id": 19,
+          "title": "Mali Kontrol ve İndirimler",
+          "desc": "Muayenenizi, sigortanızı, vergilerinizi takip eder, size hatırlatmalar yaparız. Ayrıca, size uygun indirimli sigorta, kasko, yük sigortası ve akaryakıt, lastik, akü, yedek parça fırsatları araştırırız."
+        },
+        {
+          "id": 20,
+          "title": "Hukuki Danışmanlık",
+          "desc": "Taşıma kanunu, taşıma yönetmeliğini, Türk Ticaret Kanunu ve ilgili yasaları ve yönetmelikleri detaylı bir şekilde biliriz. Taşımacılıkla ilgili yasa ve yönetmeliklerdeki değişiklikleri anında takip eder, sizi bilgilendirir ve işinizi yasalara uygun bir şekilde koruruz."
+        },
+        {
+          "id": 21,
+          "title": "Hukuki Destek",
+          "desc": "Taşımacılık ile yaşadığınız hukuki işlemlerde ücretsiz hukuk danışmanlığı hizmeti veririz ve tahsilatını yapamadığınız nakliye ödemeleri konusunda size yardımcı oluruz."
+        }
+      ]
+    }
+  ]
+}

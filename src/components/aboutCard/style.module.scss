@@ -1,0 +1,133 @@
+@import "../../styles/variables";
+@import "../../styles/mixins";
+.cardContainer {
+  background: rgba(90, 90, 90, 1);
+  // box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  box-shadow: 0px 4px 38px 0px rgba(0, 0, 0, 0.16);
+
+  padding-block: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  h3 {
+    color: white;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 20px;
+    @include breakpoint(xs) {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 20px;
+      letter-spacing: 0em;
+      text-align: center;
+    }
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .cardList {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      text-align: center;
+      .list {
+        position: relative;
+
+        img {
+          width: 100%;
+          height: 100%;
+          position: relative;
+        }
+        .textBox {
+          position: absolute;
+          top: 0;
+          width: 100%;
+          left: 0;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
+          p {
+            color: white;
+            font-size: 36px;
+            font-weight: 600;
+            line-height: 45px;
+            letter-spacing: 0em;
+            text-align: center;
+            @include breakpoint(xs) {
+              font-size: 30px;
+              font-weight: 600 !important;
+              line-height: 20px;
+              letter-spacing: 0em;
+              text-align: center;
+            }
+          }
+          span {
+            color: white;
+            font-size: 14px;
+            font-weight: 400;
+          }
+        }
+      }
+    }
+    .last {
+      width: 100%;
+      margin-top: 10px;
+      position: relative;
+
+      img {
+        position: relative;
+        width: 100%;
+        height: 100%;
+      }
+      .lastCard {
+        position: absolute;
+        z-index: 999;
+        height: 100%;
+        top: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        p {
+          color: white;
+          font-size: 36px;
+          font-weight: 600;
+          line-height: 45px;
+          letter-spacing: 0em;
+          text-align: center;
+          @include breakpoint(xs) {
+            font-size: 30px;
+            font-weight: 600 !important;
+            line-height: 20px;
+            letter-spacing: 0em;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+  .lastText {
+    color: white;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 20px;
+    @include breakpoint(xs) {
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 20px;
+      letter-spacing: 0em;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,192 @@
+@import "../../../styles/mixins";
+
+.title {
+  margin-block: 30px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #3c3c3b;
+}
+.offerForm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .map {
+    width: 40%;
+    @include breakpoint(md) {
+      display: none;
+    }
+  }
+  .form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+    padding: 30px;
+    border-radius: 20px;
+    @include breakpoint(md) {
+      width: 100%;
+    }
+    .btn {
+      width: 100%;
+      @include breakpoint(xs) {
+        button {
+          width: 100%;
+        }
+      }
+    }
+    h3 {
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 48px;
+      letter-spacing: 0em;
+      text-align: left;
+      margin-bottom: 40px;
+      color: #3c3c3b;
+    }
+    .list {
+      display: flex;
+      align-items: center;
+      .select {
+        border: 2px solid #3c3c3b !important;
+      }
+
+      .listItem {
+        display: flex;
+        align-items: center;
+        margin-right: 10px;
+        span {
+          width: 15px;
+          height: 15px;
+          border: 1px solid #3c3c3b;
+          margin-right: 5px;
+          position: relative;
+          svg {
+            position: absolute;
+            top: 0;
+            right: -1;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+    .kkvk {
+      display: flex;
+      align-items: center;
+      p {
+        @include breakpoint(xs) {
+          width: 90%;
+          margin-left: 10px;
+        }
+      }
+      .kkvkContainer {
+        width: 15px;
+        height: 15px;
+        border: 1px solid #3c3c3b;
+        margin-right: 5px;
+      }
+      .selectKkvk {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid #3c3c3b;
+      }
+    }
+    .formRow {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+      .formCol {
+        width: 100%;
+        margin-bottom: 1.5em;
+        position: relative;
+        .neredenDrop {
+          position: absolute;
+          top: 50px;
+          padding: 10px;
+          background-color: white;
+          left: 0;
+          border: 1px solid black;
+          height: 100px;
+          border-radius: 8px;
+          overflow: auto;
+          width: 100%;
+          z-index: 99999;
+        }
+      }
+    }
+    .date {
+      input {
+        @include breakpoint(xs) {
+          font-size: 12px;
+        }
+      }
+    }
+    .areaRow {
+      display: flex;
+      width: 100%;
+      .formCol {
+        width: 100%;
+      }
+    }
+    .textArea {
+      position: relative;
+      margin-bottom: 1.5em;
+      width: 100%;
+      label {
+        position: absolute;
+        top: -10px;
+        left: 15px;
+        z-index: 999;
+        padding-inline: 5px;
+        background-color: white;
+        pointer-events: none;
+        transition: 0.2s ease-out all;
+        @include breakpoint(xs) {
+          font-size: 10px;
+          top: -6px;
+          left: 10px;
+          padding-inline: 3px;
+        }
+      }
+
+      textarea {
+        outline: none;
+        display: block;
+        resize: none;
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+      }
+      textarea:focus {
+        border: 2px solid #333;
+      }
+      input:focus + label,
+      input:valid + label {
+        top: -1.5em;
+        font-size: 12px;
+        color: #333;
+      }
+    }
+  }
+}
+.customContainer {
+  margin-bottom: 30px;
+}
+.formDisplay {
+  grid-template-columns: 1fr 1fr !important;
+}
+.formDisplayCheck {
+  display: flex !important;
+  align-items: center;
+  .formCol {
+    width: initial !important;
+    margin-right: 10px;
+  }
+}

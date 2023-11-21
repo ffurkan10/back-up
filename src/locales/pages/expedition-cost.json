@@ -1,0 +1,10 @@
+{
+  "topBanner": {
+    "title": "Taşıyıcılar İçin Kamyoon"
+  },
+  "heroData": {
+    "title": "<span>Kamyoon ile</span> <br/> Sefer Maliyeti Hesaplama Modülü",
+    "text": "Kamyoon taşıyıcı ve yük verenlere pek çok avantaj sağlayan bir mobil uygulamadır. Kamyoon, bu avantajlar ile lojistik sektöründe hem taşıyıcı hem de yük veren tarafında iş gücünü azaltarak iş potansiyalini arttiracak daha güvenli bir çalışma ortamı yaratmayı hedeflemektedir. Bu avantajlardan biri de Sefer maliyeti hesaplama modülüdür.<br/><br/>Lajistik sektöründe maliyetlerin ekonomik, sektörel ve çevresel faktörlerden dolayı sürekli değişim içerisinde olması taşıyıcı ve yük veren tarafında sorunlara yol açmaktaydı. Sefer maliyeti hesaplama modülü sektördeki maliyet değişimlerinin hem taşıyıcı hem de yük veren tarafından kolayca takip edilebilmesini ve birkaç parametre ile hızlıca hesaplanmasını sağlamak için geliştirildi.<br/><br/>Sefer maliyeti hesaplama modülü kullanımı basit bir yapıdadır. Sürücünün tek seferlik gireceği birkaç bilgi ve her seferinde gireceği km bilgisi, işin kaç gün süreceği, köprü ücreti gibi parametleleri sürücüden ister. Daha sonra bu parametreler ile o günün şartlarında güncel olarak yükün nereye hangi ücretlendirmeler ile taşınacağı konusunda sürücü ve yük verenlere rehberlik eder.<br/><br/>Kamyoon Sefer maliyeti hesaplama modülü ile taşıyıcı ve yük veren arasında maliyet hesabından dolayı oluşan olumsuzlukların önüne geçmiş olur.",
+    "image": "assets/calculator-phone.png"
+  }
+}

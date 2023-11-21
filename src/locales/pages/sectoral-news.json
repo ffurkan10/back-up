@@ -1,0 +1,188 @@
+{
+  "newsSlider": {
+    "title": "Sektörel Haberler",
+
+    "dataSlider": [
+      {
+        "id": 1,
+        "image": "/assets/landing-slider-banner.png",
+        "mobileImage": "/assets/news/news-truck-mobile.png",
+        "title": "Lojistik:<br/> Geleceğe Taşıdığımız<br/> Sorumluluk",
+        "mobileTitle": "Lojistik: Geleceğe<br/> Taşıdığımız Sorumluluk",
+        "detailImage": "/assets/newsDetail/truck.png",
+        "imageMobile": "/assets/landing-mobile-slider.png",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "main": [
+          {
+            "id": 0,
+            "title": "<span>Lojistik:</span> <br/>Geleceğe Taşıdığımız Sorumluluk",
+            "image": "/assets/newsDetail/green-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+          {
+            "id": 1,
+            "title": "Teknolojik Gelişmeler ve Lojistik",
+            "image": "/assets/newsDetail/blue-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+
+          {
+            "id": 2,
+            "title": "Lojistik ve Sürdürülebilirlik",
+            "desc": "Doğanın bu denli tahribi ve bu tahribin acı sonuçları devletlerin bazı önlemler almalarına yol açtı. Devletler ve dünya kuruluşları pek çok sektörde daha sürdürülebilir sistemlere geçmeye çalışıyor. Ancak bu geç kalınmış ve öyle kolay bir süreç olmayacağa benziyor. Türkiye’de bu konuda adımlar atan ve sektörlerini yeşile yakınlaştıran bir ülke. Türkiye’de lojistik sektörü karbon emisyonunun %13’ünü kaplıyor, bu emisyonun yeşil lojistik belgesi ile düşürülmesi amaçlanıyor. Yeşil lojistik belgesi bir takım şartların karşılandığı firmalara veriliyor. 50 kişi ve üzeri çalışanı olan firmaların bunu alması zorunlu fakat en azından şimdilik bu konuda sıkı bir denetim bulunmuyor. Ayrıca belge başvuruları sadece ocak ayında yapılabiliyor. Firmalar bu belgenin şartlarını karşıladıklarında aslında karbon ayak izlerini de azaltmış oluyorlar. Firmalar atık yönetimi ve intermodal taşımacılık konusunda bu belge ile hem bilgilendiriliyor hem de teşvik ediliyor. Sonuç olarak daha yaşanabilir bir dünya için önce kendimizi sonra işimizi daha sonra da çevremizi değiştirmeliyiz. Artık geleceğe taşıdığımız sorumluluk sırtımızda iyice olgunlaştı ve bir şeyleri değiştirmenin zamanı geldi. Siz de önce kendiniz ile karbon ayak izinizi ölçerek ve önlemler alarak dünyayı kurtarabilirsiniz. Tabii ki bunu sadece kendinizle kısıtlamamalı çalıştığınız sektörden yaşadığınız çevreye kadar bu konuya önem göstermelisiniz."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "/assets/landing-slider-banner.png",
+        "mobileImage": "/assets/news/news-truck-mobile.png",
+        "title": "Lojistik:<br/> Geleceğe Taşıdığımız<br/> Sorumluluk",
+        "mobileTitle": "Lojistik: Geleceğe<br/> Taşıdığımız Sorumluluk",
+        "detailImage": "/assets/newsDetail/truck.png",
+        "imageMobile": "/assets/landing-mobile-slider.png",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "main": [
+          {
+            "id": 0,
+            "title": "Lojistik: <br/><span>Geleceğe Taşıdığımız Sorumluluk</span>",
+            "image": "/assets/newsDetail/green-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+          {
+            "id": 1,
+            "title": "Teknolojik Gelişmeler ve Lojistik",
+            "image": "/assets/newsDetail/blue-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+
+          {
+            "id": 2,
+            "title": "Lojistik ve Sürdürülebilirlik",
+            "desc": "Doğanın bu denli tahribi ve bu tahribin acı sonuçları devletlerin bazı önlemler almalarına yol açtı. Devletler ve dünya kuruluşları pek çok sektörde daha sürdürülebilir sistemlere geçmeye çalışıyor. Ancak bu geç kalınmış ve öyle kolay bir süreç olmayacağa benziyor. Türkiye’de bu konuda adımlar atan ve sektörlerini yeşile yakınlaştıran bir ülke. Türkiye’de lojistik sektörü karbon emisyonunun %13’ünü kaplıyor, bu emisyonun yeşil lojistik belgesi ile düşürülmesi amaçlanıyor. Yeşil lojistik belgesi bir takım şartların karşılandığı firmalara veriliyor. 50 kişi ve üzeri çalışanı olan firmaların bunu alması zorunlu fakat en azından şimdilik bu konuda sıkı bir denetim bulunmuyor. Ayrıca belge başvuruları sadece ocak ayında yapılabiliyor. Firmalar bu belgenin şartlarını karşıladıklarında aslında karbon ayak izlerini de azaltmış oluyorlar. Firmalar atık yönetimi ve intermodal taşımacılık konusunda bu belge ile hem bilgilendiriliyor hem de teşvik ediliyor. Sonuç olarak daha yaşanabilir bir dünya için önce kendimizi sonra işimizi daha sonra da çevremizi değiştirmeliyiz. Artık geleceğe taşıdığımız sorumluluk sırtımızda iyice olgunlaştı ve bir şeyleri değiştirmenin zamanı geldi. Siz de önce kendiniz ile karbon ayak izinizi ölçerek ve önlemler alarak dünyayı kurtarabilirsiniz. Tabii ki bunu sadece kendinizle kısıtlamamalı çalıştığınız sektörden yaşadığınız çevreye kadar bu konuya önem göstermelisiniz."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "/assets/landing-slider-banner.png",
+        "mobileImage": "/assets/news/news-truck-mobile.png",
+        "title": "Lojistik:<br/> Geleceğe Taşıdığımız<br/> Sorumluluk",
+        "mobileTitle": "Lojistik: Geleceğe<br/> Taşıdığımız Sorumluluk",
+        "detailImage": "/assets/newsDetail/truck.png",
+        "imageMobile": "/assets/landing-mobile-slider.png",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "main": [
+          {
+            "id": 0,
+            "title": "Lojistik: <br/><span>Geleceğe Taşıdığımız Sorumluluk</span>",
+            "image": "/assets/newsDetail/green-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+          {
+            "id": 1,
+            "title": "Teknolojik Gelişmeler ve Lojistik",
+            "image": "/assets/newsDetail/blue-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+
+          {
+            "id": 2,
+            "title": "Lojistik ve Sürdürülebilirlik",
+            "desc": "Doğanın bu denli tahribi ve bu tahribin acı sonuçları devletlerin bazı önlemler almalarına yol açtı. Devletler ve dünya kuruluşları pek çok sektörde daha sürdürülebilir sistemlere geçmeye çalışıyor. Ancak bu geç kalınmış ve öyle kolay bir süreç olmayacağa benziyor. Türkiye’de bu konuda adımlar atan ve sektörlerini yeşile yakınlaştıran bir ülke. Türkiye’de lojistik sektörü karbon emisyonunun %13’ünü kaplıyor, bu emisyonun yeşil lojistik belgesi ile düşürülmesi amaçlanıyor. Yeşil lojistik belgesi bir takım şartların karşılandığı firmalara veriliyor. 50 kişi ve üzeri çalışanı olan firmaların bunu alması zorunlu fakat en azından şimdilik bu konuda sıkı bir denetim bulunmuyor. Ayrıca belge başvuruları sadece ocak ayında yapılabiliyor. Firmalar bu belgenin şartlarını karşıladıklarında aslında karbon ayak izlerini de azaltmış oluyorlar. Firmalar atık yönetimi ve intermodal taşımacılık konusunda bu belge ile hem bilgilendiriliyor hem de teşvik ediliyor. Sonuç olarak daha yaşanabilir bir dünya için önce kendimizi sonra işimizi daha sonra da çevremizi değiştirmeliyiz. Artık geleceğe taşıdığımız sorumluluk sırtımızda iyice olgunlaştı ve bir şeyleri değiştirmenin zamanı geldi. Siz de önce kendiniz ile karbon ayak izinizi ölçerek ve önlemler alarak dünyayı kurtarabilirsiniz. Tabii ki bunu sadece kendinizle kısıtlamamalı çalıştığınız sektörden yaşadığınız çevreye kadar bu konuya önem göstermelisiniz."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "image": "/assets/landing-slider-banner.png",
+        "mobileImage": "/assets/news/news-truck-mobile.png",
+        "title": "Lojistik:<br/> Geleceğe Taşıdığımız<br/> Sorumluluk",
+        "mobileTitle": "Lojistik: Geleceğe<br/> Taşıdığımız Sorumluluk",
+        "detailImage": "/assets/newsDetail/truck.png",
+        "imageMobile": "/assets/landing-mobile-slider.png",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "main": [
+          {
+            "id": 0,
+            "title": "Lojistik: <br/><span>Geleceğe Taşıdığımız Sorumluluk</span>",
+            "image": "/assets/newsDetail/green-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+          {
+            "id": 1,
+            "title": "Teknolojik Gelişmeler ve Lojistik",
+            "image": "/assets/newsDetail/blue-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+
+          {
+            "id": 2,
+            "title": "Lojistik ve Sürdürülebilirlik",
+            "desc": "Doğanın bu denli tahribi ve bu tahribin acı sonuçları devletlerin bazı önlemler almalarına yol açtı. Devletler ve dünya kuruluşları pek çok sektörde daha sürdürülebilir sistemlere geçmeye çalışıyor. Ancak bu geç kalınmış ve öyle kolay bir süreç olmayacağa benziyor. Türkiye’de bu konuda adımlar atan ve sektörlerini yeşile yakınlaştıran bir ülke. Türkiye’de lojistik sektörü karbon emisyonunun %13’ünü kaplıyor, bu emisyonun yeşil lojistik belgesi ile düşürülmesi amaçlanıyor. Yeşil lojistik belgesi bir takım şartların karşılandığı firmalara veriliyor. 50 kişi ve üzeri çalışanı olan firmaların bunu alması zorunlu fakat en azından şimdilik bu konuda sıkı bir denetim bulunmuyor. Ayrıca belge başvuruları sadece ocak ayında yapılabiliyor. Firmalar bu belgenin şartlarını karşıladıklarında aslında karbon ayak izlerini de azaltmış oluyorlar. Firmalar atık yönetimi ve intermodal taşımacılık konusunda bu belge ile hem bilgilendiriliyor hem de teşvik ediliyor. Sonuç olarak daha yaşanabilir bir dünya için önce kendimizi sonra işimizi daha sonra da çevremizi değiştirmeliyiz. Artık geleceğe taşıdığımız sorumluluk sırtımızda iyice olgunlaştı ve bir şeyleri değiştirmenin zamanı geldi. Siz de önce kendiniz ile karbon ayak izinizi ölçerek ve önlemler alarak dünyayı kurtarabilirsiniz. Tabii ki bunu sadece kendinizle kısıtlamamalı çalıştığınız sektörden yaşadığınız çevreye kadar bu konuya önem göstermelisiniz."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "image": "/assets/landing-slider-banner.png",
+        "mobileImage": "/assets/news/news-truck-mobile.png",
+        "title": "Lojistik:<br/> Geleceğe Taşıdığımız<br/> Sorumluluk",
+        "mobileTitle": "Lojistik: Geleceğe<br/> Taşıdığımız Sorumluluk",
+        "detailImage": "/assets/newsDetail/truck.png",
+        "imageMobile": "/assets/landing-mobile-slider.png",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "main": [
+          {
+            "id": 0,
+            "title": "Lojistik: <br/><span>Geleceğe Taşıdığımız Sorumluluk</span>",
+            "image": "/assets/newsDetail/green-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+          {
+            "id": 1,
+            "title": "Teknolojik Gelişmeler ve Lojistik",
+            "image": "/assets/newsDetail/blue-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+
+          {
+            "id": 2,
+            "title": "Lojistik ve Sürdürülebilirlik",
+            "desc": "Doğanın bu denli tahribi ve bu tahribin acı sonuçları devletlerin bazı önlemler almalarına yol açtı. Devletler ve dünya kuruluşları pek çok sektörde daha sürdürülebilir sistemlere geçmeye çalışıyor. Ancak bu geç kalınmış ve öyle kolay bir süreç olmayacağa benziyor. Türkiye’de bu konuda adımlar atan ve sektörlerini yeşile yakınlaştıran bir ülke. Türkiye’de lojistik sektörü karbon emisyonunun %13’ünü kaplıyor, bu emisyonun yeşil lojistik belgesi ile düşürülmesi amaçlanıyor. Yeşil lojistik belgesi bir takım şartların karşılandığı firmalara veriliyor. 50 kişi ve üzeri çalışanı olan firmaların bunu alması zorunlu fakat en azından şimdilik bu konuda sıkı bir denetim bulunmuyor. Ayrıca belge başvuruları sadece ocak ayında yapılabiliyor. Firmalar bu belgenin şartlarını karşıladıklarında aslında karbon ayak izlerini de azaltmış oluyorlar. Firmalar atık yönetimi ve intermodal taşımacılık konusunda bu belge ile hem bilgilendiriliyor hem de teşvik ediliyor. Sonuç olarak daha yaşanabilir bir dünya için önce kendimizi sonra işimizi daha sonra da çevremizi değiştirmeliyiz. Artık geleceğe taşıdığımız sorumluluk sırtımızda iyice olgunlaştı ve bir şeyleri değiştirmenin zamanı geldi. Siz de önce kendiniz ile karbon ayak izinizi ölçerek ve önlemler alarak dünyayı kurtarabilirsiniz. Tabii ki bunu sadece kendinizle kısıtlamamalı çalıştığınız sektörden yaşadığınız çevreye kadar bu konuya önem göstermelisiniz."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "image": "/assets/landing-slider-banner.png",
+        "mobileImage": "/assets/news/news-truck-mobile.png",
+        "title": "Lojistik:<br/> Geleceğe Taşıdığımız<br/> Sorumluluk",
+        "mobileTitle": "Lojistik: Geleceğe<br/> Taşıdığımız Sorumluluk",
+        "desc": "Kamyoon, bireysel kamyoncuların iş bulma sürelerini kısaltarak, kompakt yapısı ile geri dönüş maliyetlerini azaltır.",
+        "detailImage": "/assets/newsDetail/truck.png",
+        "imageMobile": "/assets/landing-mobile-slider.png",
+        "main": [
+          {
+            "id": 0,
+            "title": "Lojistik: <br/><span>Geleceğe Taşıdığımız Sorumluluk</span>",
+            "image": "/assets/newsDetail/green-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+          {
+            "id": 1,
+            "title": "Teknolojik Gelişmeler ve Lojistik",
+            "image": "/assets/newsDetail/blue-truck.png",
+            "desc": "Günümüzde dünya ekonomisinin vazgeçilmez bir unsuru haline gelen lojistik, ürün ve hizmetlerin zamanında ve güvenilir bir şekilde müşterilere ulaştırılması, küresel ekonominin işleyişinde büyük öneme sahiptir. Bu sistemlerin sorunsuz işlemesinin önemliliği kadar çevreye karşı sorumlulukları da önemlidir. Tedarik zinciri her gün sorunsuz olarak işlemesi gereken bir sistemdir. Fakat bu sistemin dünyaya faturası çoğu zaman ağır olmaktadır. Lojistik sektörünün bugün taşıdığı yüklere bir yük daha eklemesi gerekmektedir; Bu da geleceğe taşıdığımız yeşil yükümüz. Karbon ayak izimizi ölçmeli ve azaltılması yolunda çözümler araştırmalıyız. Sürdürülebilir hayatı teşvik etmeliyiz konumuz lojistiğin dışında günlük hayatımızda da bunu sorumluluk edinmeli ve gelecek nesiller için daha yaşanabilir bir dünya için çalışmalıyız."
+          },
+
+          {
+            "id": 2,
+            "title": "Lojistik ve Sürdürülebilirlik",
+            "desc": "Doğanın bu denli tahribi ve bu tahribin acı sonuçları devletlerin bazı önlemler almalarına yol açtı. Devletler ve dünya kuruluşları pek çok sektörde daha sürdürülebilir sistemlere geçmeye çalışıyor. Ancak bu geç kalınmış ve öyle kolay bir süreç olmayacağa benziyor. Türkiye’de bu konuda adımlar atan ve sektörlerini yeşile yakınlaştıran bir ülke. Türkiye’de lojistik sektörü karbon emisyonunun %13’ünü kaplıyor, bu emisyonun yeşil lojistik belgesi ile düşürülmesi amaçlanıyor. Yeşil lojistik belgesi bir takım şartların karşılandığı firmalara veriliyor. 50 kişi ve üzeri çalışanı olan firmaların bunu alması zorunlu fakat en azından şimdilik bu konuda sıkı bir denetim bulunmuyor. Ayrıca belge başvuruları sadece ocak ayında yapılabiliyor. Firmalar bu belgenin şartlarını karşıladıklarında aslında karbon ayak izlerini de azaltmış oluyorlar. Firmalar atık yönetimi ve intermodal taşımacılık konusunda bu belge ile hem bilgilendiriliyor hem de teşvik ediliyor. Sonuç olarak daha yaşanabilir bir dünya için önce kendimizi sonra işimizi daha sonra da çevremizi değiştirmeliyiz. Artık geleceğe taşıdığımız sorumluluk sırtımızda iyice olgunlaştı ve bir şeyleri değiştirmenin zamanı geldi. Siz de önce kendiniz ile karbon ayak izinizi ölçerek ve önlemler alarak dünyayı kurtarabilirsiniz. Tabii ki bunu sadece kendinizle kısıtlamamalı çalıştığınız sektörden yaşadığınız çevreye kadar bu konuya önem göstermelisiniz."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "topBanner": {
+    "title": "Kooperatifler İçin Kamyoon"
+  },
+  "heroData": {
+    "title": "<span>Kamyoon ile</span> <br/> İş Yükünüzü Azaltın",
+    "text": "Kooperatifler; araç kayıtlarını oluşturur, iş listelerini ve araç sıralarını düzenler. Aynı zamanda kooperatifler yük listelerini görebilir araçlar ile yükleri eşleyebilir. Araçların kooperatif çatısı altında kurallara uymadığı durumlarda kooperatifin kendi ceza sistemi, uygulamaya entegre edilir. Kooperatif araç ile şoförü eşleştirdikten sonra onay süreci başlar. Onay süreci bittiğinde sevkiyat başlar.",
+    "image": "assets/home-computer.png"
+  },
+
+  "iconCard": [
+    {
+      "id": 0,
+      "title": "Canlı Konum <br/> Takibi",
+      "icon": "assets/carriers/road.svg"
+    },
+    {
+      "id": 1,
+      "title": "Maliyet <br/> Hesabı",
+      "icon": "assets/carriers/wallet.svg"
+    },
+    {
+      "id": 2,
+      "title": "e-Arşiv <br/> Fatura",
+      "icon": "assets/carriers/file.svg"
+    },
+    {
+      "id": 3,
+      "title": "UEDTS",
+      "icon": "assets/carriers/comp.svg"
+    },
+    {
+      "id": 4,
+      "title": "Sektördeki <br/> İndirimler!",
+      "icon": "assets/carriers/oran.svg"
+    },
+    {
+      "id": 5,
+      "title": "Hukuk <br/> Danışmanlığı",
+      "icon": "assets/carriers/law.svg"
+    },
+    {
+      "id": 6,
+      "title": "Sürücü <br/> Temini",
+      "icon": "assets/carriers/driver.svg"
+    },
+    {
+      "id": 7,
+      "title": "81 İlden <br/> Yük Bul!",
+      "icon": "assets/carriers/lift.svg"
+    }
+  ]
+}

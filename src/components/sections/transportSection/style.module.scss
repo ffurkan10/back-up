@@ -1,0 +1,154 @@
+@import "../../../styles/variables";
+@import "../../../styles/mixins";
+
+.transportContainer {
+  display: flex;
+  flex-direction: column;
+  h3 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 45px;
+    margin-bottom: 20px;
+    @include breakpoint(xs) {
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 23px;
+    }
+  }
+  .iconSection {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr); /* İki satır oluştur */
+    grid-template-columns: repeat(4, 1fr); /* Dört sütun oluştur */
+    gap: 18px;
+    @include breakpoint(md) {
+      grid-template-rows: repeat(1, 1fr);
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @include breakpoint(xs) {
+      grid-template-rows: repeat(1, 1fr);
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .card {
+      background-color: $color-primary;
+      display: flex;
+      align-items: center;
+      padding: 20px 14px;
+      border-radius: 20px;
+      box-shadow: 0px 4px 38px 0px #00000029;
+      @include breakpoint(md) {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding: 14px;
+      }
+      @include breakpoint(xs) {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding: 14px;
+      }
+      img {
+        @include breakpoint(xs) {
+          width: 39px;
+        }
+      }
+
+      p {
+        color: white;
+        margin-left: 15px;
+        font-family: Outfit;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 23px;
+        @include breakpoint(md) {
+          margin-left: 0;
+        }
+        @include breakpoint(xs) {
+          margin-left: 0;
+          margin-top: 5px;
+          font-size: 14px;
+          font-weight: 500;
+          line-height: 18px;
+        }
+      }
+    }
+  }
+
+  .buttonSection {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 18px;
+    @include breakpoint(xs) {
+      display: grid;
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+    p {
+      background-color: $color-secondary;
+      color: white;
+      padding: 14px 20px;
+      border-radius: 8px;
+      box-shadow: 0px 4px 38px 0px #00000029;
+      @include breakpoint(xs) {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 15px;
+      }
+    }
+  }
+
+  .border {
+    width: 100%;
+    height: 1px;
+    background-color: $color-secondary;
+    margin-block: 50px;
+  }
+
+  .featureContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    .featureCard {
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0px 4px 38px 0px #00000029;
+      h4 {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 35px;
+        @include breakpoint(xs) {
+          font-size: 22px;
+          font-weight: 500;
+          line-height: 28px;
+        }
+      }
+      p {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23px;
+        margin-block: 14px;
+        @include breakpoint(xs) {
+          font-size: 12px;
+          font-weight: 400;
+          line-height: 15px;
+        }
+        ul {
+          margin-left: 20px;
+        }
+      }
+      button {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23px;
+        @include breakpoint(xs) {
+          font-size: 12px;
+          font-weight: 400;
+          line-height: 15px;
+        }
+      }
+    }
+  }
+}

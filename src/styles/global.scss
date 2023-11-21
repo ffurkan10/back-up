@@ -1,0 +1,153 @@
+@import "./mixins";
+@import "./variables";
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0px 24px;
+}
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  .AppFooter {
+    margin-top: auto;
+  }
+}
+.react-tel-input {
+  position: relative;
+  .special-label {
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    z-index: 999;
+    padding-inline: 5px;
+    background-color: white;
+    pointer-events: none;
+    transition: 0.2s ease-out all;
+  }
+
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+
+  input:focus + label,
+  input:valid + label {
+    top: -1.5em;
+    font-size: 12px;
+    color: #333;
+  }
+}
+.date {
+  font-size: 12px;
+  input {
+  }
+}
+.special-label {
+  @include breakpoint(xs) {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: $color-secondary;
+  }
+}
+
+.swiper-custom {
+  .swiper-slide:nth-child(4) {
+    @include breakpoint(md) {
+      min-width: 237px !important;
+    }
+    @include breakpoint(xs) {
+      min-width: 159px !important;
+    }
+  }
+  .swiper-slide {
+    @include breakpoint(md) {
+      width: auto !important;
+      a {
+        width: 100%;
+      }
+    }
+  }
+}
+.sectorel-swiper {
+  padding-block: 40px !important;
+  .swiper-button-prev:after {
+    content: url(../assets/icons/arrow-sectorel-left.svg) !important;
+  }
+  .swiper-button-next::after {
+    content: url(../assets/icons/arrow-sectorel.svg) !important;
+  }
+}
+.swiper-landing {
+  .swiper-button-prev,
+  .swiper-button-next {
+    color: $color-secondary;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+  .swiper-button-prev:after {
+    font-size: 15px;
+    content: url(../assets/icons/slider-arrow.svg);
+  }
+  .swiper-button-next::after {
+    font-size: 15px;
+    content: url(../assets/icons/slider-arrow-right.svg);
+  }
+  .swiper-slide {
+    @include breakpoint(lg) {
+      padding-inline: 10px;
+    }
+  }
+}
+.loginPortalModal {
+  background-color: #fff !important;
+  height: fit-content;
+  outline: none;
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  z-index: 999999;
+  p {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  a {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: $color-primary;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+  }
+}
+.reactModalPortal {
+  position: absolute;
+  z-index: 999;
+}

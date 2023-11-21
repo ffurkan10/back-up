@@ -1,0 +1,108 @@
+{
+  "topBanner": {
+    "title": "Kamyoon"
+  },
+  "heroData": {
+    "title": "Kamyoon Nedir?",
+    "image": "assets/home-computer.png",
+    "desc": "<span>Kamyoon, kayıtdışı ekonomi ile mücadele, karbon salınımının azaltılması, sektörün dijitalleşmesi ve ihtiyaçlarının karşılanmasıamacıyla geliştirilen bir uygulamadır.</span><br/><br/>Uygulama; bireysel kamyoncular, lojistik firmaları, yük verenler ve kooperatifler arasında ki yük sirkülasyonunu sağlıyor.<br/><br/>Kamyoon, sahip olduğu 13 bin aktif / pasif deneyimli sürücü sayısını her geçen gün arttırarak maksimum güvenlikli bir taşıma ekosistemi kurarken, geleneksel lojistiğin dijitalleşmesiyle verilerin her koşulda kayıt altında tutulmasını sağlayarak kayıt dışı ekonomi ile mücadele ediyor.",
+    "text": "Dönüş yükü sorunları ve boş katedilen yol kaynaklı oluşan fazla karbon salınımına karşı en büyük girişim olan Kamyoon, sektörün karbon ayak izinin azaltılması için dünyaya karşı olan sorumluluğunu üstleniyor. "
+  },
+
+  "iconCard": {
+    "title": "Sertifikalarımız",
+    "icons": [
+      {
+        "id": 0,
+        "icon": "assets/about/sertifika-1.svg",
+        "hoverIcon": "assets/about/empty-1.svg",
+        "title": "Enerji<br/> Yönetim <br/>Sistemi"
+      },
+      {
+        "id": 1,
+        "icon": "assets/about/sertifika-2.svg",
+        "hoverIcon": "assets/about/empty-2.svg",
+        "title": "Çevre<br/> Yönetim <br/>Sistemi"
+      },
+
+      {
+        "id": 2,
+        "icon": "assets/about/sertifika-3.svg",
+        "hoverIcon": "assets/about/empty-3.svg",
+        "title": "Su Ayak İzi<br/> Hesaplama <br/>Sertifikası"
+      },
+      {
+        "id": 3,
+        "icon": "assets/about/sertifika-4.svg",
+        "hoverIcon": "assets/about/empty-4.svg",
+        "title": "Müşteri<br/> Memnuniyet <br/>Yönetim <br/>Sistemi"
+      },
+      {
+        "id": 4,
+        "icon": "assets/about/sertifika-5.svg",
+        "hoverIcon": "assets/about/empty-5.svg",
+        "title": "Karbon<br/>Ayak İzi <br/>Hesaplama <br/>Sistemi"
+      }
+    ]
+  },
+
+  "numberCard": {
+    "title": "Kamyoon;",
+    "text": "ile yanınızda!",
+    "lastCard": "Yaygın Şube Ağı",
+    "image": "assets/about/last-card.png",
+    "cards": [
+      {
+        "id": 0,
+        "number": "16.000",
+        "text": "Aktif / Pasif Üye",
+        "image": "assets/about/card-1.png"
+      },
+      {
+        "id": 1,
+        "number": "30.000",
+        "text": "Tesçilli Tır ve Kamyon",
+        "image": "assets/about/card-2.png"
+      },
+      {
+        "id": 2,
+        "number": "20",
+        "text": "Yılı Aşkın Tecrübe",
+        "image": "assets/about/card-3.png"
+      },
+      {
+        "id": 3,
+        "number": "140",
+        "text": "Beyaz Yakalı Çalışan",
+        "image": "assets/about/card-4.png"
+      }
+    ]
+  },
+
+  "mission": [
+    {
+      "id": 0,
+      "title": "Vizyon",
+      "desc": "İnsani değerlerimiz, çevreye olan sevgimiz ve Türkiye’yi dijitalleşme yolunda dünya lojistik pazarında temsil etme arzumuz ile dijital bir yük pazarı olarak hizmet sunmaktayız. Nihai prensibimiz, kamyoncular, yük verenler, nakliyeciler ve kooperatifler arasında etkili iletişimi ve iş birliğini sağlarken aynı zamanda bu paydaşların haklarını da korumaktır. Türkiye’deki lojistik sektörünün dijitalleşmesi yolunda hedeflerimize ulaşmamız için gerekli olan adımlar yıllardır sektörün içinde bir tecrübe birikimi ile oluşturduğumuz prensiplerimizde yatmaktadır."
+    },
+    {
+      "id": 1,
+      "title": "Misyon",
+      "desc": "Muavin lojistik sektöründe insani ve çevresel sorunlara çözüm olmak için ortaya çıktı. Dijital dönüşümünü tamamlayamamış lojistik sektörüne bir yük pazarı deneyimi yaşatmak için kurduğumuz bu sistem güven ve iş birliğini amaçlamaktadır."
+    }
+  ],
+
+  "heroDataBottom": {
+    "title": "Sürdürülebilirlik Vizyonumuz",
+    "text": "Kamyoon olarak, 2040 yılına kadar tüm lojistik operasyonların sürdürülebilir, enerji verimli ve düşük karbon emisyonlu teknolojilerle yönetildiği bir platform olmayı hedefliyoruz. İklim değişikliği ile mücadele etmek, dijital lojistik sektörünün lideri olarak üzerimize düşen bir sorumluluktur. Bu hedefi gerçekleştirmek için, müşterilerimize daha yeşil ve daha sürdürülebilir lojistik yönetimi seçenekleri sunacağız, ortaklarımızın enerji verimli teknolojilere geçişini teşvik edeceğiz, iş süreçlerimizde ve yazılım çözümlerimizde şeffaflığı önceliğimiz yapacağız ve sürdürülebilir enerjiye geçişi hızlandırmak için sivil toplum kuruluşları ve özel sektörle işbirliği yapacağız.<br/><br/>Dijital lojistik alanında, karbon ayak izini azaltma ve enerji verimliliği konularında öncü olma vizyonumuzla hareket ediyoruz. Sadece iş süreçlerimizi değil, tüm lojistik ekosistemi içindeki operasyonları daha yeşil ve daha sürdürülebilir hale getirmek için çözümler geliştiriyoruz.<br/><br/> Yeşil enerji kullanımını teşvik ederek, merkezlerimizdeki enerji tüketimini en aza indirecek çözümler sunuyoruz. Müşterilerimizin karbon ayak izini azaltmak için taşımacılık ve depolama süreçlerinde daha verimli ve sürdürülebilir çözümler sunarak, sektördeki sürdürülebilirlik çıtasını yükseltmeyi hedefliyoruz.<br/><br/>Muavin olarak, sürdürülebilir bir gelecek için öncü bir rol üstlenmeye kararlıyız.<br/><br/>Kamyoon olarak, sürdürülebilir bir gelecek için öncü bir rol üstlenmeye kararlıyız.Dijital lojistik çözümlerimizle, iş süreçlerinizi daha yeşil, daha verimli ve daha sürdürülebilir hale getirmeniz için size yardımcı olacağız. Bu çaba, sürekli gelişen ve yenilikçi bir yaklaşımla devam edecek, çünkü Kamyoon’de, sürdürülebilirlik hiçbir zaman bitmez. Her zaman daha yeşil bir gelecek için çabalıyoruz.",
+    "image": "assets/about/truck.png",
+    "buttonText": "Karbon Ayak İznizi Hesaplayın",
+    "icon": "assets/icons/right-arrow-3.svg"
+  },
+
+  "lastText": {
+    "title": "Ödüllü Projemiz",
+    "image": "assets/about/gold.png",
+    "text": "2013 yılında ilgili bakanlıkça düzenlenen Kayıt Dışı Ekonomi ile Mücadele Proje Yarışması’nda Türkiye'de bir ilk olan nakliye sektöründe otomasyon sistemi kurulumu, e-nakliye portalının devreye alınması, taşımacılıkta U-ETDS belgesi kullanımı ve sistemden iletilmesi gibi yenilikçi adımlar uygulayan projesi ile Kamyoon ödüle layık görülmüştür.<br/><br/><span> Yarışma sonrası bakanlıkça uygulanan sistemler sektörü ve ülkemizi milyonlarca liralık zarardan kurtarmıştır.<span/> "
+  }
+}
